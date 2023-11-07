@@ -1,13 +1,13 @@
 # 基于SSM的大学生兼职招聘系统
 
-# SSM-
+# SSM-031
 
 ### 技术栈
 
 ssm mybatisplus jsp
 
 
-
+### 数据库
 mysql (12张表)
 
 
